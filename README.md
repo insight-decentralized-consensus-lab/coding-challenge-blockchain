@@ -9,7 +9,7 @@ Your task is to write a smart contract that creates your own [ERC20-based token]
 1. Deploy your smart contract to a testnet of your choice
 1. In your repo, create a new React app that interacts with your smart contract(s) in a useful way.
 1. Create a README.md explaining how to test the features you have built. Feel free to add additional thoughts, e.g. why you chose certain libraries or why you implemented a feature in a certain way etc.
-1. Upload to the /submissions directory by midnight on Monday.
+1. Upload to the /submissions directory by midnight on Monday. Your invite to collaborate should be [here](https://github.com/insight-decentralized-consensus-lab/coding-challenge-blockchain/invitations).
 
 ## Acceptance Criteria
 * Your smart contract has been deployed to either the Ropsten, Kovan or Rinkeby testnet
